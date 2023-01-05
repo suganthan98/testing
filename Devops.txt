@@ -1,0 +1,53 @@
+sdlc- software dev  lifecycle
+ 
+CI AND CD - Continuos Intergration and Continuos Deploy
+
+WAR means web Application
+JAR Means Java
+EAR Means Enterprise
+
+WAR+JAR= EAR
+
+source code management -GIT
+Build - Maven
+TEST -SoanrQube
+DEploy -Docker
+Log Monitoring- splunk
+Inferstructure monitoring cpu internal memory
+inferstructure monitoring means - appd or pre&Grafana
+
+
+want install jenkin mandorty install openjdk
+
+apt update its killing expired cache
+
+
+java mantory for jenkins 
+
+ps -ef |grep   ps means process  grep means filter
+
+jenkins default 8080
+
+jenkins is MR 360
+
+
+/ var/lib/jenkins/workspace/testjob ----> Default Job landing path
+
+Port change in jenkins for ubuntu ---> cat /etc/default/jenkins
+
+CI and CD
+
+Plan code build test ---> continuos intergration
+
+relase 
+
+
+
+In jenkins webhook Automatic Trigger
+
+pollscm manual trigger
+
+
+continuos delivery is manual
+
+Automatic end to end is a continuos deployment
